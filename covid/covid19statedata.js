@@ -40,6 +40,7 @@
                     "state": feat[i].state,
                     "date": feat[i].date,
                     "positive": feat[i].positive,
+                    "positiveIncrease": feat[i].positiveIncrease,
                     "negative": feat[i].negative,
                     "negativeIncrease": feat[i].negativeIncrease,
                     "pending":feat[i].pending,
